@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="appdb-web" transform="translate(-903.000000, -40.000000)" fill="#016CFA" fill-rule="nonzero">
+            <g id="header" transform="translate(30.000000, 26.000000)">
+                <g id="secondary-nav" transform="translate(766.000000, 0.000000)">
+                    <g id="Group-2" transform="translate(107.000000, 8.000000)">
+                        <path d="M9.5,9.776 L9.5,8.6 L2.5,8.6 L2.5,9.776 L9.5,9.776 Z M9.5,11.526 L9.5,10.35 L2.5,10.35 L2.5,11.526 L9.5,11.526 Z M9.5,13.276 L9.5,12.1 L2.5,12.1 L2.5,13.276 L9.5,13.276 Z M10.676,6.276 C10.9933349,6.276 11.2639989,6.38799888 11.488,6.612 C11.7120011,6.83600112 11.824,7.10666508 11.824,7.424 L11.824,14.424 C11.824,14.7413349 11.7120011,15.0166655 11.488,15.25 C11.2639989,15.4833345 10.9933349,15.6 10.676,15.6 L2.5,15.6 L0.176,17.924 L0.176,7.424 C0.176,7.10666508 0.28799888,6.83600112 0.512,6.612 C0.73600112,6.38799888 1.00666508,6.276 1.324,6.276 L10.676,6.276 Z" id=""></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

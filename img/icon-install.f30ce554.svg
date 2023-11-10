@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <g id="App-Details-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-Desc.-page----Versions" transform="translate(-881.000000, -390.000000)" fill="#3D464D" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(853.000000, 175.000000)">
+                <g id="app-download-link-Copy" transform="translate(20.000000, 206.000000)">
+                    <g id="link">
+                        <g id="Padding-Group-2" transform="translate(0.000000, 2.000000)">
+                            <path d="M18.074,7.85 C18.3913349,7.85 18.6666655,7.9666655 18.9,8.2 C19.1333345,8.4333345 19.25,8.70866508 19.25,9.026 L19.25,17.174 C19.25,17.4913349 19.1333345,17.7666655 18.9,18 C18.6666655,18.2333345 18.3913349,18.35 18.074,18.35 L9.926,18.35 C9.5993317,18.35 9.32166781,18.2333345 9.093,18 C8.86433219,17.7666655 8.75,17.4913349 8.75,17.174 L8.75,14.85 L9.926,14.85 L9.926,17.174 L18.074,17.174 L18.074,9.026 L9.926,9.026 L9.926,11.35 L8.75,11.35 L8.75,9.026 C8.75,8.70866508 8.86433219,8.4333345 9.093,8.2 C9.32166781,7.9666655 9.5993317,7.85 9.926,7.85 L18.074,7.85 Z M12.88,15.2 L14.378,13.674 L8.75,13.674 L8.75,12.526 L14.378,12.526 L12.88,11 L13.706,10.174 L16.632,13.1 L13.706,16.026 L12.88,15.2 Z" id="" transform="translate(14.000000, 13.100000) rotate(90.000000) translate(-14.000000, -13.100000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

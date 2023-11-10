@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="13px" viewBox="0 0 12 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F0B34F" offset="0%"></stop>
+            <stop stop-color="#D67F1B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="appdb-web" transform="translate(-651.000000, -109.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="main-nav" transform="translate(0.000000, 91.000000)">
+                <g id="Stacked-Group-2" transform="translate(29.000000, 10.000000)">
+                    <g id="cat-3-copy" transform="translate(615.000000, 2.000000)">
+                        <g id="Group-8">
+                            <path d="M10.125,6.5 C11.3541728,6.5 12.2291641,6.82291344 12.75,7.46875 L12.75,18.5 L12.6875,18.5 C12.5624994,17.9374972 12.2604191,17.4635436 11.78125,17.078125 C11.3020809,16.6927064 10.7500031,16.5 10.125,16.5 C8.93749406,16.5 8.12500219,16.9374956 7.6875,17.8125 L7,17.8125 L7,8.96875 C7,8.17707938 7.29166375,7.56771047 7.875,7.140625 C8.45833625,6.71353953 9.20832875,6.5 10.125,6.5 Z M15.875,6.5 C16.7916713,6.5 17.5416637,6.71353953 18.125,7.140625 C18.7083362,7.56771047 19,8.17707938 19,8.96875 L19,17.8125 L18.3125,17.8125 C17.8124975,16.9374956 17.0000056,16.5 15.875,16.5 C15.25,16.5 14.6979191,16.6927064 14.21875,17.078125 C13.7395809,17.4635436 13.4375006,17.9374972 13.3125,18.5 L13.25,18.5 L13.25,7.46875 C13.7708359,6.82291344 14.6458272,6.5 15.875,6.5 Z" id=""></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

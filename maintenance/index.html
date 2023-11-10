@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="icon" href="/maintenance/favicon.png" />
+    <title>appdb</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,500&display=swap"
+      rel="stylesheet"
+      />
+    <link href="/maintenance/styles.css?1" rel="stylesheet" type="text/css" />
+    <script>
+      let theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      const themes = ['dark', 'light'];
+      if (themes.includes(location.hash.slice(1))) {
+        theme = location.hash.slice(1);
+      }
+      document.documentElement.classList.add(theme);
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <a href="/">
+          <img id="logo" />
+          <script>
+            document.getElementById('logo').src = `/maintenance/logo-${theme}.svg`;
+          </script>
+        </a>
+      </header>
+      <p class="text">AppDB is currently undergoing a maintenance.</p>
+      <main class="main">
+        <img class="maintenance" src="/maintenance/maintenance.png" />
+        <div class="twitter">
+          <a
+            data-chrome="transparent"
+            class="twitter-timeline"
+            href="https://twitter.com/appdb_official?ref_src=twsrc%5Etfw">Tweets
+            by appdb_official</a>
+          <script>
+            document.querySelector('.twitter-timeline').dataset.theme = theme;
+          </script>
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"></script>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>

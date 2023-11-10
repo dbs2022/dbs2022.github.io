@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <g id="Device-pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MyDevice/MyAppStore" transform="translate(-972.000000, -360.000000)" fill="#599A3E" fill-rule="nonzero">
+            <g id="apps-list" transform="translate(455.000000, 308.000000)">
+                <g id="app-tile-update" transform="translate(0.000000, 44.000000)">
+                    <g id="actions" transform="translate(507.000000, 0.000000)">
+                        <g id="btn/install">
+                            <g id="">
+                                <path d="M20.074,8.85 C20.3913349,8.85 20.6666655,8.9666655 20.9,9.2 C21.1333345,9.4333345 21.25,9.70866508 21.25,10.026 L21.25,18.174 C21.25,18.4913349 21.1333345,18.7666655 20.9,19 C20.6666655,19.2333345 20.3913349,19.35 20.074,19.35 L11.926,19.35 C11.5993317,19.35 11.3216678,19.2333345 11.093,19 C10.8643322,18.7666655 10.75,18.4913349 10.75,18.174 L10.75,15.85 L11.926,15.85 L11.926,18.174 L20.074,18.174 L20.074,10.026 L11.926,10.026 L11.926,12.35 L10.75,12.35 L10.75,10.026 C10.75,9.70866508 10.8643322,9.4333345 11.093,9.2 C11.3216678,8.9666655 11.5993317,8.85 11.926,8.85 L20.074,8.85 Z M14.88,16.2 L16.378,14.674 L10.75,14.674 L10.75,13.526 L16.378,13.526 L14.88,12 L15.706,11.174 L18.632,14.1 L15.706,17.026 L14.88,16.2 Z" transform="translate(16.000000, 14.100000) rotate(90.000000) translate(-16.000000, -14.100000) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

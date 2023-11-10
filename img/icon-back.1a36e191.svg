@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>back</title>
+    <desc>Created with Sketch.</desc>
+    <g id="App-Details-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-Desc.-page----Versions" transform="translate(-873.000000, -195.000000)">
+            <g id="back" transform="translate(873.000000, 195.000000)">
+                <circle id="Oval" stroke-opacity="0.3" stroke="#708090" fill="#FFFFFF" cx="10.5" cy="10.5" r="10"></circle>
+                <polygon id="" fill="#3D464D" fill-rule="nonzero" points="14.5 10.008982 14.5 10.991018 8.41616766 10.991018 11.2065868 13.7934132 10.5 14.5 6.5 10.5 10.5 6.5 11.2065868 7.20658683 8.41616766 10.008982"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="24px" viewBox="0 0 60 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>logo-name</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo-name/dark" transform="translate(-2.000000, 0.000000)">
+            <g id="logo-name" transform="translate(2.000000, 0.000000)">
+                <text id="App" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="20" letter-spacing="0.0001" fill="#181F25">
+                    <tspan x="0" y="16">App</tspan>
+                </text>
+                <g id="logo" transform="translate(32.000000, 0.000000)">
+                    <g id="logo/db-mark">
+                        <g id="db-mark">
+                            <rect id="Rectangle" fill="#016CFA" x="0" y="0" width="28" height="24" rx="2"></rect>
+                            <path d="M10.868,17.8 L10.868,16.408 L10.788,16.408 C10.484,17.352 9.588,17.992 8.484,17.992 C6.388,17.992 5.22,16.408 5.22,13.608 C5.22,10.824 6.388,9.256 8.484,9.256 C9.588,9.256 10.5,9.864 10.788,10.824 L10.868,10.824 L10.868,5.96 L12.916,5.96 L12.916,17.8 L10.868,17.8 Z M9.14,16.296 C10.116,16.296 10.868,15.8 10.868,14.936 L10.868,12.28 C10.868,11.464 10.116,10.936 9.14,10.936 C8.084,10.936 7.364,11.72 7.364,12.904 L7.364,14.344 C7.364,15.528 8.084,16.296 9.14,16.296 Z M14.784,17.8 L14.784,5.96 L16.832,5.96 L16.832,10.824 L16.896,10.824 C17.2,9.864 18.096,9.256 19.2,9.256 C21.312,9.256 22.48,10.824 22.48,13.608 C22.48,16.408 21.312,17.992 19.2,17.992 C18.096,17.992 17.216,17.352 16.896,16.408 L16.832,16.408 L16.832,17.8 L14.784,17.8 Z M18.544,16.296 C19.6,16.296 20.336,15.528 20.336,14.344 L20.336,12.904 C20.336,11.72 19.6,10.936 18.544,10.936 C17.568,10.936 16.832,11.464 16.832,12.28 L16.832,14.936 C16.832,15.8 17.568,16.296 18.544,16.296 Z" id="db" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
