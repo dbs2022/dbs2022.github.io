@@ -679,5 +679,7 @@
     "PROVIDER": "Provider",
     "PROVIDING": "Providing",
     "UPLOADER": "Uploader",
-    "HOW_TO_SIDELOAD_AND_USE_PLUS": "How to sideload and use {{brand}} PLUS"
+    "HOW_TO_SIDELOAD_AND_USE_PLUS": "How to sideload and use {{brand}} PLUS",
+    "3RD_PARTY_CERT_LINKED_TITLE": "Certificate from 3rd party has been configured for your device successfully",
+    "3RD_PARTY_CERT_LINKED_BODY": "Certificate from 3rd party has been configured successfully. Now you can install apps from {{brand}}. You can continue to <a href=\"/my/configure\">device features configuration page</a> or head strait to app installations"
 }
