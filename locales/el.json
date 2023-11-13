@@ -353,7 +353,6 @@
     "ACTIVATED": "Ενεργοποιήθηκε",
     "N_VERSIONS_AVAILABLE": "{{n}} διαθέσιμες εκδόσεις",
     "APP_REQUESTED_SUCCESSFULLY": "Το αίτημά σας δημιουργήθηκε και θα εκπληρωθεί σύντομα",
-    "CRACKED BY": "Σπασμένο από",
     "UPLOADED BY": "Ανέβηκε από",
     "REQUESTS": "Αιτήματα εφαρμογής",
     "ITUNES_API_NOTICE": "Όλα τα δεδομένα είναι δημόσια διαθέσιμα μέσω του <a href=\"{{documentationLink}}\" target=\"_blank\" rel=\"nofollow\">iTunes API</a>",
