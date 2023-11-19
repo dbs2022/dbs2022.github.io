@@ -681,5 +681,6 @@
     "UPLOADER": "Uploader",
     "HOW_TO_SIDELOAD_AND_USE_PLUS": "How to sideload and use {{brand}} PLUS",
     "3RD_PARTY_CERT_LINKED_TITLE": "Certificate from 3rd party has been configured for your device successfully",
-    "3RD_PARTY_CERT_LINKED_BODY": "Certificate from 3rd party has been configured successfully. Now you can install apps from {{brand}}. You can continue to <a href=\"/my/configure\">device features configuration page</a> or head straight to app installations"
+    "3RD_PARTY_CERT_LINKED_BODY": "Certificate from 3rd party has been configured successfully. Now you can install apps from {{brand}}. You can continue to <a href=\"/my/configure\">device features configuration page</a> or head straight to app installations",
+    "ERROR_REPO_BUNDLE_ID_IS_MISSING": "Bundle Identifier of app is missing. Please ask repository owner to fix it's JSON metadata file"
 }
