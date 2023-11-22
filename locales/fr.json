@@ -178,8 +178,6 @@
     "ORPHANED_LINK_DESC": "Il semble que votre appareil actuel utilise le lien orphelin de l'ancien appareil. Nous reconnecterons votre appareil actuel",
     "MORE_NEWS": "Plus de nouvelles",
     "YOUR_DEVICE": "Votre appareil {{0}}",
-    "THIS_COMPUTER_IS_LINKED_TO_APPDB": "Ce PC/Mac est lié à {{brand}} avec e-mail {{email}} et capable de contrôler ces appareils :",
-    "THIS_DEVICE_IS_LINKED_TO_APPDB": "Ces appareils sont liés à {{brand}} sous l'email \"{{email}}\" :",
     "TO_LINK_APPLE_TV": "Pour lier Apple TV à {{brand}} :",
     "LINK_APPLE_TV_STEPS": "<li>Accédez aux paramètres Apple TV</li> <li>Accédez à \"Général\"</li> <li>Accédez à \"Confidentialité\"</li> <li>Sélectionnez la ligne \"Partager les analyses Apple TV\"</li> <li> Appuyez sur le bouton <strong>Lecture/Pause</strong> sur la télécommande Apple</li> <li>Allez à \"Ajouter un profil\"</li> <li>Entrez l'URL suivante : <strong>{{link}}</strong></li> [ X392X]Suivez les instructions sur votre téléviseur</li>",
     "REQUEST_FOR_APP": "Demande d'application",

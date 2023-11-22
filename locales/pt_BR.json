@@ -95,8 +95,6 @@
     "SWITCH_TO_ANOTHER_DEVICE_REDIRECT": "Parece que você só precisa mudar para outro dispositivo. Iremos redirecioná-lo.",
     "DO_YOU_WANT_LINK_ANOTHER_DEVICE": "Talvez você queira vincular outro dispositivo como o Apple TV?",
     "VISIT_FROM_IDEVICE": "Por favor, visite o {{brand}} a partir do dispositivo móvel para solucionar problemas de detecção de dispositivo errado",
-    "THIS_COMPUTER_IS_LINKED_TO_APPDB": "Este PC/Mac está vinculado ao {{brand}} com o e-mail {{email}} e pode controlar estes dispositivos:",
-    "THIS_DEVICE_IS_LINKED_TO_APPDB": "Estes dispositivos estão vinculados ao {{brand}} no e-mail \"{{email}}\":",
     "TO_LINK_APPLE_TV": "Para vincular o Apple TV ao {{brand}}:",
     "IF_YOU_NEED_TO_LINK_NEW_DEVICE_HERES_CODE": "Se você precisar vincular um novo dispositivo, aqui está o código de vinculação para ele:",
     "ORPHANED_LINK_DESC": "Parece que seu dispositivo atual está usando uma vinculação órfã de dispositivo antigo. Vamos vincular seu dispositivo atual novamente",

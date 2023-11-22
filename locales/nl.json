@@ -200,8 +200,6 @@
     "DO_YOU_WANT_LINK_ANOTHER_DEVICE": "Misschien wil je een ander apparaat zoals Apple TV koppelen?",
     "VISIT_FROM_IDEVICE": "Ga naar {{brand}} vanaf een mobiel apparaat om problemen met detectie van verkeerde apparaten op te lossen",
     "ORPHANED_LINK_DESC": "Het lijkt erop dat uw huidige apparaat een oude verweesde apparaatkoppeling gebruikt. We zullen uw huidige apparaat opnieuw koppelen",
-    "THIS_COMPUTER_IS_LINKED_TO_APPDB": "Deze pc/Mac is gekoppeld aan {{brand}} met e-mail {{email}} en kan deze apparaten bedienen:",
-    "THIS_DEVICE_IS_LINKED_TO_APPDB": "Deze apparaten zijn gekoppeld aan {{brand}} onder e-mail \"{{email}}\":",
     "LINK_APPLE_TV_STEPS": "<li>Ga naar Apple TV-instellingen</li> <li>Ga naar \"Algemeen\" </li> <li>Ga naar \"Privacy\" </li> <li>Markeer rij \"Deel Apple TV-analyse\" </li> <li> Druk op de <strong>Play/Pause</strong>-knop op de Apple remote </li> <li>Ga naar \"Add Profile\" </li> <li>Voer de volgende URL in: <strong>{{link}}</strong></li> [ X392X]Volg de instructies op uw TV</li>",
     "ADVANCED_USAGE_ZONE_NOTICE": "Geavanceerde gebruikszone hieronder. Als u {{brand}} PRO gebruikt of niet weet wat u doet, verander dan niets in deze sectie.",
     "IS_JAILBROKEN_WITH_APPSYNC": "Is het apparaat gejailbreakt en is appsync geïnstalleerd vanaf <a target=\"_blank\" href=\"{{appsyncLink}}\">https://cydia.akemi.ai/</a>?",

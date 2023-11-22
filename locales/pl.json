@@ -273,8 +273,6 @@
     "PRO_FEATURES_DESC": "<p>{{brand}} PRO umożliwia korzystanie z {{brand}} na urządzeniu bez jailbreaka lub Macu Apple Silicon</p>\n<p>PRO aktywuje się dla konkretnego urządzenia, dla każdego osobno</p>\n<p><strong>Możesz uzyskać cenę u jednego z naszych dystrybutorów lub kupić bezpośrednio od nas za pomocą bitcoinów</strong></p>\n<p>PRO nie można przenosić pomiędzy urządzeniami</p><p>Aktywacja PRO może potrwać do 24 godzin</p>\n<p><strong>Użytkowanie PRO może być ograniczone przez Apple do 17 dni od aktywacji, może być konieczne oczekiwanie</strong></p>\n<p>PRO działa przez rok i nie jest subskrypcją. Po wygaśnięciu musisz uzyskać nowe PRO</p>\n<p>PRO nie jest zgodne z urządzeniami firmowymi korzystającymi z MDM. Prosimy o używanie {{brand}} tylko na urządzeniach prywatnych</p>",
     "SWITCH_TO_ANOTHER_DEVICE_REDIRECT": "Wygląda na to, że wystarczy przełączyć się na inne urządzenie. Przekierujemy Cię.",
     "DO_YOU_WANT_LINK_ANOTHER_DEVICE": "Może chcesz połączyć inne urządzenie, takie jak Apple TV?",
-    "THIS_COMPUTER_IS_LINKED_TO_APPDB": "Ten komputer PC/Mac jest powiązany z {{brand}} pod kontem email {{email}} i może kontrolować te urządzenia:",
-    "THIS_DEVICE_IS_LINKED_TO_APPDB": "Te urządzenia są powiązane z {{brand}} pod kontem email „{{email}}”:",
     "SINCE": "odkąd",
     "REMOVE": "Usunąć",
     "COMPATIBILITY_UNKNOWN": "? Nieznana kompatybilność",

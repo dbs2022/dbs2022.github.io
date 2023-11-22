@@ -113,8 +113,6 @@
     "DO_YOU_WANT_LINK_ANOTHER_DEVICE": "Maybe you want to link another device like Apple TV?",
     "VISIT_FROM_IDEVICE": "Please visit {{brand}} from mobile device to troubleshoot wrong device detection",
     "ORPHANED_LINK_DESC": "Looks like your current device is using old device orphaned link. We will link your current device again",
-    "THIS_COMPUTER_IS_LINKED_TO_APPDB": "This PC/Mac is linked to {{brand}} with email {{email}} and able to control these devices:",
-    "THIS_DEVICE_IS_LINKED_TO_APPDB": "These devices are linked to {{brand}} under email \"{{email}}\":",
     "IF_YOU_NEED_TO_LINK_NEW_DEVICE_HERES_CODE": "If you need to link new device, here is link code for it:",
     "TO_LINK_APPLE_TV": "To link Apple TV to {{brand}}:",
     "LINK_APPLE_TV_STEPS": "<li>Go to Apple TV settings</li>                <li>Go to \"General\"</li>                <li>Go to \"Privacy\"</li>                <li>Highlight \"Share Apple TV analytics\" row</li>                <li>Press <strong>Play/Pause</strong> button on Apple remote</li>                <li>Go to \"Add Profile\"</li>                              <li>Enter the following URL: <strong>{{link}}</strong></li> <li>Follow instructions on your TV</li>",
@@ -683,5 +681,15 @@
     "3RD_PARTY_CERT_LINKED_TITLE": "Certificate from 3rd party has been configured for your device successfully",
     "3RD_PARTY_CERT_LINKED_BODY": "Certificate from 3rd party has been configured successfully. Now you can install apps from {{brand}}. You can continue to <a href=\"/my/configure\">device features configuration page</a> or head straight to app installations",
     "ERROR_REPO_BUNDLE_ID_IS_MISSING": "Bundle Identifier of app is missing. Please ask repository owner to fix it's JSON metadata file",
-    "DO_NOT_USE_ICLOUD_APPLE_EMAILS": "Do not use Apple-provided emails like @icloud.com, @me.com, @mac.com or similar. Use your own email address that is not registered by Apple."
+    "DO_NOT_USE_ICLOUD_APPLE_EMAILS": "Do not use Apple-provided emails like @icloud.com, @me.com, @mac.com or similar. Use your own email address that is not registered by Apple.",
+    "CHANGE_EMAIL": "Change email",
+    "CHANGE_EMAIL_PAGE_DESC": "If you want to change email, you can do it here. In case if there are other devices linked under your new email:\n<br/><br/>\n<ul>\n<li>You can manage all your devices linked under one email</li>\n<li><a href=\"/my/store\" >IPA libraries</a> will be merged</li>\n<li><a href=\"/my/dylibs\">Dylibs libraries</a> will be merged</li>\n<li><a href =\"/my/repos\">AltStore repositories</a> will be merged</li>\n</ul>\n<br/>\nAll other features, like <a href=\"/my/plus\">{{brand}} PLUS</a>, attached developer account or certificate, P2P purchase or <a href=\"/my/ipa-cache\">IPA cache</a> will stay intact and will be transferred to your new email address.\n\nIf your friend or relative have shared their Apple developer account with you, you need to ask them to remove your old email from sharing list at <a href=\"/my/plus\">PLUS status page</a> and add your new email.",
+    "BEGIN_TO_CHANGE": "Begin to change",
+    "NEW_EMAIL": "New email",
+    "ENTER_CODE_SENT_TO_NEW_EMAIL": "Enter the verification code sent to your new email",
+    "THIS_DEVICE_IS_LINKED_TO_APPDB": "These devices are linked to {{brand}} under email \"{{email}}\" <a href=\"{{emailChangeLink}}\">(change)</a>:",
+    "THIS_COMPUTER_IS_LINKED_TO_APPDB": "This PC/Mac is linked to {{brand}} with email {{email}} <a href=\"{{emailChangeLink}}\">(change)</a> and able to control these devices:",
+    "EMAIL_CHANGE_SUCCESS_TITLE": "Email has been changed",
+    "EMAIL_CHANGE_SUCCESS_BODY": "You have successfully changed email associated with your devices",
+    "CONFIRM": "Confirm"
 }

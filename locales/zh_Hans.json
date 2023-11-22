@@ -184,8 +184,6 @@
     "DO_YOU_WANT_LINK_ANOTHER_DEVICE": "也许您想链接其他设备，例如 Apple TV？",
     "VISIT_FROM_IDEVICE": "请从移动设备访问 {{brand}} 以解决错误的设备检测问题",
     "ORPHANED_LINK_DESC": "看起来您当前的设备正在使用旧设备孤立链接。我们将再次链接您当前的设备",
-    "THIS_COMPUTER_IS_LINKED_TO_APPDB": "此 PC/Mac 通过电子邮件 {{email}} 链接到 {{brand}} 并能够控制这些设备：",
-    "THIS_DEVICE_IS_LINKED_TO_APPDB": "这些设备在电子邮件“{{email}}”下链接到 {{brand}}：",
     "IF_YOU_NEED_TO_LINK_NEW_DEVICE_HERES_CODE": "如果您需要链接新设备，这里是它的链接代码：",
     "TO_LINK_APPLE_TV": "要将 Apple TV 链接到 {{brand}}：",
     "LINK_APPLE_TV_STEPS": "<li>转到 Apple TV 设置</li> <li>转到“常规”</li> <li>转到“隐私”</li> <li>突出显示“共享 Apple TV 分析”行</li> <li>按Apple遥控器上的<strong>播放/暂停</strong>按钮</li><li>转到“添加配置文件”</li><li>输入以下URL：<strong>{{link}}</strong></li>[ X392X]按照电视上的说明进行操作</li>",

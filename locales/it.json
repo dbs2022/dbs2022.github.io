@@ -218,8 +218,6 @@
     "DO_YOU_WANT_LINK_ANOTHER_DEVICE": "Forse vuoi collegare un altro dispositivo come Apple TV?",
     "VISIT_FROM_IDEVICE": "Visita {{brand}} dal dispositivo mobile per risolvere i problemi di rilevamento del dispositivo errato",
     "ORPHANED_LINK_DESC": "Sembra che il tuo dispositivo attuale stia utilizzando il collegamento orfano del vecchio dispositivo. Collegheremo nuovamente il tuo dispositivo attuale",
-    "THIS_COMPUTER_IS_LINKED_TO_APPDB": "Questo PC/Mac è collegato ad {{brand}} con e-mail {{email}} ed è in grado di controllare questi dispositivi:",
-    "THIS_DEVICE_IS_LINKED_TO_APPDB": "Questi dispositivi sono collegati ad {{brand}} sotto l'e-mail \"{{email}}\":",
     "LINK_APPLE_TV_STEPS": "<li>Vai alle impostazioni di Apple TV</li> <li>Vai a \"Generale\"</li> <li>Vai a \"Privacy\"</li> <li>Evidenzia la riga \"Condividi analisi Apple TV\"</li> <li> Premi il pulsante <strong>Play/Pausa</strong> sul telecomando Apple</li> <li>Vai a \"Aggiungi profilo\"</li> <li>Inserisci il seguente URL: <strong>{{link}}</strong></li> [ X392X]Segui le istruzioni sulla tua TV</li>",
     "PASSWORD": "Parola d'ordine",
     "ADVANCED_USAGE_ZONE_NOTICE": "Zona di utilizzo avanzato di seguito. Se stai usando {{brand}} PRO o non sai cosa stai facendo, non modificare nulla in questa sezione.",

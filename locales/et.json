@@ -121,8 +121,6 @@
     "DO_YOU_WANT_LINK_ANOTHER_DEVICE": "Võib-olla soovite linkida mõne muu seadme, näiteks Apple TV?",
     "VISIT_FROM_IDEVICE": "Vale seadme tuvastamise tõrkeotsinguks külastage mobiilseadmes rakendust {{brand}}",
     "ORPHANED_LINK_DESC": "Näib, et teie praegune seade kasutab vana seadme orblinki. Ühendame teie praeguse seadme uuesti",
-    "THIS_COMPUTER_IS_LINKED_TO_APPDB": "See PC/Mac on lingitud {{brand}}-ga e-postiga {{email}} ja suudab juhtida järgmisi seadmeid:",
-    "THIS_DEVICE_IS_LINKED_TO_APPDB": "Need seadmed on lingitud {{brand}}-ga meili \"{{email}}\" all:",
     "IF_YOU_NEED_TO_LINK_NEW_DEVICE_HERES_CODE": "Kui teil on vaja linkida uus seade, siis siin on selle lingikood:",
     "TO_LINK_APPLE_TV": "Apple TV linkimine {{brand}}-ga:",
     "LINK_APPLE_TV_STEPS": "<li>Ava Apple TV seaded</li> <li>Ava \"General\"</li> <li>Ava \"Privaatsus\"</li> <li>Tõstke esile rida \"Jaga Apple TV analüütikat\"</li> <li> Vajutage Apple'i kaugjuhtimispuldi <strong>Esita/Paus</strong> nuppu </li> <li>Ava \"Lisa profiil\"</li> <li>Sisestage järgmine URL: <strong>{{link}}</strong></li> [ X392X]Järgige oma teleris kuvatavaid juhiseid</li>",
