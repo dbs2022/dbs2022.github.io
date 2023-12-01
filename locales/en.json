@@ -593,7 +593,7 @@
     "UPLOAD_FILES": "Upload files",
     "PROVIDE_URL_TO_DYLIB": "Please provide URL to file, it must to be available for direct download",
     "3RD_PARTY_SIDELOADING_HEADING": "Sideloading with shared 3rd party certificate (<b class='g-text-success'>cheaper</b>, <b class='g-text-success'>no limitations</b>, <b class='g-text-warning'>eventual revokes</b>, <b class='g-text-success'>w/o PC</b>)",
-    "PLUS_DESCRIPTION": "Optional PLUS will unlock advanced {{brand}} features such as removal of signing limits and advertising, IPA cache, App Requests and much more.",
+    "PLUS_DESCRIPTION": "PLUS will unlock advanced {{brand}} features such as removal of signing limits and advertising, IPA cache, App Requests and much more. This is optional.",
     "SIDELOADING_OPTIONS_TIP": "Click on any option to purchase. By purchasing you agree with <a href=\"{{href}}\">Terms of PLUS extension package</a>.",
     "OFFICIAL_SIDELOADING_HEADING": "<b>Official sideloading</b>, your own developer account (<b class='g-text-success'>the best</b>, <b class='g-text-success'>no limitations or revokes</b>, <b class='g-text-success'>w/o PC</b>)",
     "FREE_ENTERPRISE_SIDELOADING_HEADING": "Sideloading with free enterprise certificate (<b class='g-text-success'>free</b>, <b class='g-text-success'>no limitations</b>, <b class='g-text-error'>frequent revokes</b>, <b class='g-text-success'>w/o PC</b>)",

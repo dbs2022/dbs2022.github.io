@@ -563,7 +563,7 @@
     "VIEW_STATUS": "Status ansehen",
     "YOU_DONT_NEED_P2P_CERTIFICATE": "Jemand hat sein Entwicklerkonto mit Ihnen geteilt. Sie brauchen diese Funktion nicht zu nutzen. Sie können jedoch Ersatz von jemand anderem kaufen, die Angebote werden unten angezeigt.<br/>Bitte beachten Sie, dass im Falle eines neuen P2P-Kaufs der alte Kontobesitzer Ihr Gerät im Falle einer Rückbuchung immer noch sperren kann, da Ihr Gerät bis zum Ablauf der Gültigkeit weiterhin in seinem Konto registriert ist.",
     "YOUR_NAME": "Dein Name",
-    "PLUS_DESCRIPTION": "Optional PLUS schaltet erweiterte {{brand}} Funktionen frei, wie z.B. das Entfernen von Signiergrenzen und Werbung, IPA-Cache, App-Anfragen und vieles mehr.",
+    "PLUS_DESCRIPTION": "PLUS schaltet erweiterte {{brand}} Funktionen frei, wie z.B. das Entfernen von Signiergrenzen und Werbung, IPA-Cache, App-Anfragen und vieles mehr. Dies ist optional.",
     "NO_APPS_IN_REPO": "Keine Apps in dieser Quelle vorhanden",
     "IPA_CACHE_PAYWALL_MESSAGE": "Mit dieser Funktion können Sie alle Anwendungen mit einem \"Neuinstallation\"-Knopfschnell wiederherstellen, wenn das Gerät zurückgesetzt oder geändert wurde, wenn ein Zertifikat widerrufen wurde oder wenn Sie einfach alle Ihre Anwendungen auf ein neues Gerät übertragen möchten. Diese Funktion ist Teil von <span class=\"g-pro\">PLUS</span>",
     "CONFIGURE_DEV_CERTIFICATE_TITLE": "Entwicklerzertifikat und Bereitstellungsprofile für Geräte ohne Jailbreak",
