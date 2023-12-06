@@ -244,8 +244,8 @@
     "js/chunk-fb4553de.4698121b.js.map",
     "js/chunk-vendors.a81f9330.js",
     "js/chunk-vendors.a81f9330.js.map",
-    "js/main.ec355fd6.js",
-    "js/main.ec355fd6.js.map",
+    "js/main.f764ca95.js",
+    "js/main.f764ca95.js.map",
     "locales/ar.json",
     "locales/de.json",
     "locales/el.json",
@@ -263,6 +263,7 @@
     "locales/ru.json",
     "locales/tr.json",
     "locales/uk.json",
+    "locales/vi.json",
     "locales/zh_Hans.json",
     "maintenance/favicon.png",
     "maintenance/index.html",
@@ -276,7 +277,7 @@
     "css/chunk-vendors.357b5c2e.css",
     "js/chunk-vendors.a81f9330.js",
     "css/main.68f21e89.css",
-    "js/main.ec355fd6.js"
+    "js/main.f764ca95.js"
   ],
   "async": [
     "css/chunk-0a177138.ae50fd0b.css",

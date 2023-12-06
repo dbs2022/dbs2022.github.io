@@ -1,0 +1,8 @@
+{
+    "ERROR_FREE_DEVELOPER_UNSUPPORTED_IOS_VERSION": "Danh tính nhà phát triển miễn phí không được hỗ trợ trên iOS 13.3.1",
+    "GO_TO_LINK_QUESTION": "Bạn cần liên kết thiết bị của mình với {{brand}} để cài đặt ứng dụng. Bạn có muốn làm điều này bây giờ không?",
+    "UNKNOWN_STATE_NOTICE": "Thiết bị của bạn CHƯA JAILBREAK và không có AppSync từ Cydia repo https://cydia.akemi.ai/ ? Nhấn OK nếu điều đó là đúng, nhấn Hủy nếu Không.",
+    "SYSTEM STATUS": "Trạng thái hệ thống",
+    "NO_DEVICE_LINKED": "Không có thiết bị nào được liên kết",
+    "APPDB_APP_LIST": "Danh sách ứng dụng được cài đặt qua {{brand}}"
+}
