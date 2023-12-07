@@ -691,5 +691,6 @@
     "THIS_COMPUTER_IS_LINKED_TO_APPDB": "This PC/Mac is linked to {{brand}} with email {{email}} <a href=\"{{emailChangeLink}}\">(change)</a> and able to control these devices:",
     "EMAIL_CHANGE_SUCCESS_TITLE": "Email has been changed",
     "EMAIL_CHANGE_SUCCESS_BODY": "You have successfully changed email associated with your devices",
-    "CONFIRM": "Confirm"
+    "CONFIRM": "Confirm",
+    "PLUS_DEV_ACCOUNT_FIRST_CONFIGURE_CONFIRMATION": "Have you bought an Apple developer account from Apple <b>and</b> paid around $99 to Apple <b>and</b> got emails from Apple stating that developer membership for you was activated?"
 }
