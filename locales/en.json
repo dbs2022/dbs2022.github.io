@@ -692,5 +692,8 @@
     "EMAIL_CHANGE_SUCCESS_TITLE": "Email has been changed",
     "EMAIL_CHANGE_SUCCESS_BODY": "You have successfully changed email associated with your devices",
     "CONFIRM": "Confirm",
-    "PLUS_DEV_ACCOUNT_FIRST_CONFIGURE_CONFIRMATION": "Have you bought an Apple developer account from Apple <b>and</b> paid around $99 to Apple <b>and</b> got emails from Apple stating that developer membership for you was activated?"
+    "PLUS_DEV_ACCOUNT_FIRST_CONFIGURE_CONFIRMATION": "Have you bought an Apple developer account from Apple <b>and</b> paid around $99 to Apple <b>and</b> got emails from Apple stating that developer membership for you was activated?",
+    "COOKIES_DESCRIPTION": "We use cookies to ensure you get the best experience. <a href=\"{{learnMoreLink}}\">Learn More...</a>",
+    "ALLOW_ONLY_NECESSARY_COOKIES_BUTTON": "Only Necessary",
+    "ALLOW_ALL_COOKIES_BUTTON": "Allow All"
 }
