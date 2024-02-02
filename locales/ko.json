@@ -5,7 +5,6 @@
     "REMOVE": "삭제",
     "COMPATIBILITY_UNKNOWN": "? 호환성이 확인되지 않음",
     "APPS": "앱",
-    "BOOKS": "책",
     "CATEGORY": "종류",
     "PAID": "유료",
     "FREE": "무료",
@@ -20,6 +19,5 @@
     "GO_TO_LINK_QUESTION": "앱을 설치하려면 기기를 {{brand}}에 연결해야 합니다. 연결하시겠습니까?",
     "NOT_UPDATEABLE": "외부 소스로부터 설치되었기 때문에 {{brand}}에서 업데이트할 수 없습니다. 이 앱을 삭제하고 {{brand}}에서 설치하여 업데이트 하세요.",
     "N_VERSIONS_AVAILABLE": "{{n}}개의 버전이 있습니다",
-    "BOOK": "책",
     "SINCE": "부터"
 }

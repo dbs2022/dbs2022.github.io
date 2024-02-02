@@ -4,5 +4,9 @@
     "UNKNOWN_STATE_NOTICE": "Thiết bị của bạn CHƯA JAILBREAK và không có AppSync từ Cydia repo https://cydia.akemi.ai/ ? Nhấn OK nếu điều đó là đúng, nhấn Hủy nếu Không.",
     "SYSTEM STATUS": "Trạng thái hệ thống",
     "NO_DEVICE_LINKED": "Không có thiết bị nào được liên kết",
-    "APPDB_APP_LIST": "Danh sách ứng dụng được cài đặt qua {{brand}}"
+    "APPDB_APP_LIST": "Danh sách ứng dụng được cài đặt qua {{brand}}",
+    "NOT JAILBROKEN": "Chưa Jailbreak",
+    "INSTALLED_APP_LIST": "Danh sách ứng dụng đã cài đặt",
+    "OK_BUTTON": "OK",
+    "PRIVATE_REPO": "Riêng tư"
 }
