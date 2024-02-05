@@ -19,5 +19,12 @@
     "GO_TO_LINK_QUESTION": "앱을 설치하려면 기기를 {{brand}}에 연결해야 합니다. 연결하시겠습니까?",
     "NOT_UPDATEABLE": "외부 소스로부터 설치되었기 때문에 {{brand}}에서 업데이트할 수 없습니다. 이 앱을 삭제하고 {{brand}}에서 설치하여 업데이트 하세요.",
     "N_VERSIONS_AVAILABLE": "{{n}}개의 버전이 있습니다",
-    "SINCE": "부터"
+    "SINCE": "부터",
+    "UNKNOWN_STATE_NOTICE": "만약 당신의 디바이스가 탈옥되지 않았고 시디아 레포에 있는 AppSync를 설치하지 않으셨나요?  맞다면 확인을 탭하세요",
+    "REQUESTING": "요청중…",
+    "TWEAKED_VERSION_NOTICE_TITLE": "경고: 트윅된 버전",
+    "OR": "또는",
+    "NO": "아니요",
+    "SEARCH_MOBILE_PLACEHOLDER": "검색 {{brand}}",
+    "YES": "네"
 }
