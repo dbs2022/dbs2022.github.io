@@ -719,5 +719,11 @@
   "EDIT_METADATA": "Edit metadata",
   "MY_APPS_TITLE": "My apps (IPA files)",
   "MY_APPS": "My apps",
-  "UNIVERSAL_SCREENSHOTS_TITLE": "Universal"
+  "UNIVERSAL_SCREENSHOTS_TITLE": "Universal",
+  "RESET_CHANGES": "Reset changes",
+  "END_PREVIEW": "End preview",
+  "PREVIEW": "Preview",
+  "DETAILS_CHANGES_SAVED_NOTIFICATION": "Details changes were successfully saved",
+  "RESET_DETAILS_CHANGES_CONFIRMATION": "Are you sure you want to reset details changes?",
+  "DESCRIPTION": "Description"
 }
