@@ -725,5 +725,6 @@
   "PREVIEW": "Preview",
   "DETAILS_CHANGES_SAVED_NOTIFICATION": "Details changes were successfully saved",
   "RESET_DETAILS_CHANGES_CONFIRMATION": "Are you sure you want to reset details changes?",
-  "DESCRIPTION": "Description"
+  "DESCRIPTION": "Description",
+  "DOWNLOAD": "Download"
 }
