@@ -695,5 +695,11 @@
     "MY_REPOSITORIES_HEADING": "\"Mes dépôts\"",
     "MY_REPOSITORIES_SIDEBAR": "Vous pouvez ajouter des dépôts à votre collection sur {{brand}}, puis vous pouvez facilement installer des applications, vérifier les actualités et les mises à jour dans ces dépôts.",
     "PUBLIC_REPOS": "\"Répertoires publics\"",
-    "MY_REPOSITORIES_ADD_YOURS": "Si vous possédez un dépôt, vous pouvez permettre à vos utilisateurs de l'ajouter facilement à {{brand}} en les redirigeant vers <b>{{href}}</b>."
+    "MY_REPOSITORIES_ADD_YOURS": "Si vous possédez un dépôt, vous pouvez permettre à vos utilisateurs de l'ajouter facilement à {{brand}} en les redirigeant vers <b>{{href}}</b>.",
+    "PUBLIC": "\"Public\" in French translation: \"Public\"",
+    "PRIVACY_POLICY": "\"Politique de confidentialité\"",
+    "TOS": "Conditions générales d'utilisation",
+    "SHARE": "\"Partager\"",
+    "PRIVATE": "\"Privé\"",
+    "DOWNLOAD": "\"Téléchargements\""
 }

@@ -695,5 +695,11 @@
     "MY_REPOSITORIES_HEADING": "\"Mis repositorios\"",
     "MY_REPOSITORIES_SIDEBAR": "Puedes añadir repositorios a tu colección en {{brand}}, luego puedes instalar aplicaciones fácilmente, verificar noticias y actualizaciones en estos repositorios.",
     "PUBLIC_REPOS": "\"Repositorios públicos\"",
-    "MY_REPOSITORIES_ADD_YOURS": "Si eres propietario de un repositorio, puedes permitir que tus usuarios lo añadan fácilmente a {{brand}} redirigiéndolos a <b>{{href}}</b>."
+    "MY_REPOSITORIES_ADD_YOURS": "Si eres propietario de un repositorio, puedes permitir que tus usuarios lo añadan fácilmente a {{brand}} redirigiéndolos a <b>{{href}}</b>.",
+    "PUBLIC": "\"Público\"",
+    "PRIVACY_POLICY": "\"Política de privacidad\"",
+    "TOS": "\"Términos de servicio\"",
+    "SHARE": "\"Compartir\"",
+    "PRIVATE": "\"Privado\"",
+    "DOWNLOAD": "\"Descargas\""
 }

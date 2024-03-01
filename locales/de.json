@@ -694,5 +694,11 @@
     "MY_REPOSITORIES_HEADING": "\"Meine Repositories\"",
     "MY_REPOSITORIES_SIDEBAR": "Sie können Repositories zu Ihrer Sammlung auf {{brand}} hinzufügen. Anschließend können Sie einfach Apps installieren und in diesen Repositories nach Neuigkeiten und Updates suchen.",
     "PUBLIC_REPOS": "\"Öffentliche Repositories\"",
-    "MY_REPOSITORIES_ADD_YOURS": "Wenn Sie ein Repository besitzen, können Sie Ihren Benutzern ermöglichen, es einfach zu {{brand}} hinzuzufügen, indem Sie sie zu <b>{{href}}</b> umleiten."
+    "MY_REPOSITORIES_ADD_YOURS": "Wenn Sie ein Repository besitzen, können Sie Ihren Benutzern ermöglichen, es einfach zu {{brand}} hinzuzufügen, indem Sie sie zu <b>{{href}}</b> umleiten.",
+    "PUBLIC": "\"Öffentlich\"",
+    "PRIVACY_POLICY": "\"Datenschutzbestimmungen\"",
+    "SHARE": "\"Teilen\"",
+    "TOS": "\"Nutzungsbedingungen\"",
+    "PRIVATE": "\"Privat\"",
+    "DOWNLOAD": "\"Herunterladen\""
 }

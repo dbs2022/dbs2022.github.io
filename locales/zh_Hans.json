@@ -688,5 +688,11 @@
     "MY_REPOSITORIES_HEADING": "我的存储库",
     "MY_REPOSITORIES_SIDEBAR": "您可以在{{brand}}上添加存储库到您的收藏中，然后可以轻松地安装应用程序，检查这些存储库中的新闻和更新。",
     "PUBLIC_REPOS": "公共存储库",
-    "MY_REPOSITORIES_ADD_YOURS": "如果您拥有一个存储库，您可以通过将用户重定向到<b>{{href}}</b>，让他们轻松将其添加到{{brand}}。"
+    "MY_REPOSITORIES_ADD_YOURS": "如果您拥有一个存储库，您可以通过将用户重定向到<b>{{href}}</b>，让他们轻松将其添加到{{brand}}。",
+    "PUBLIC": "\"公开\"",
+    "PRIVACY_POLICY": "隐私政策",
+    "TOS": "服务条款",
+    "SHARE": "分享",
+    "PRIVATE": "私密",
+    "DOWNLOAD": "下载"
 }

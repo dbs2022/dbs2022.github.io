@@ -694,5 +694,11 @@
     "MY_REPOSITORIES_HEADING": "\"Mijn repositories\"",
     "MY_REPOSITORIES_SIDEBAR": "Je kunt repositories toevoegen aan je collectie op {{brand}}, daarna kun je gemakkelijk apps installeren, nieuws controleren en updates in deze repositories controleren.",
     "PUBLIC_REPOS": "\"Openbare repositories\"",
-    "MY_REPOSITORIES_ADD_YOURS": "Als u een repository bezit, kunt u uw gebruikers eenvoudig toestaan om dit toe te voegen aan {{brand}} door ze door te verwijzen naar <b>{{href}}</b>."
+    "MY_REPOSITORIES_ADD_YOURS": "Als u een repository bezit, kunt u uw gebruikers eenvoudig toestaan om dit toe te voegen aan {{brand}} door ze door te verwijzen naar <b>{{href}}</b>.",
+    "PRIVACY_POLICY": "\"Privacybeleid\"",
+    "SHARE": "\"Delen\"",
+    "PUBLIC": "\"Openbaar\"",
+    "TOS": "\"Gebruiksvoorwaarden\"",
+    "PRIVATE": "\"Privaat\"",
+    "DOWNLOAD": "\"Downloads\""
 }

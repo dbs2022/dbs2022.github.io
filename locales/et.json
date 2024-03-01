@@ -694,5 +694,11 @@
     "MY_REPOSITORIES_HEADING": "\"Minu hoidlad\"",
     "MY_REPOSITORIES_SIDEBAR": "Saate lisada kogumikku {{brand}} koodivaramuid, seejärel saate nendes varamutes lihtsalt rakendusi installida, kontrollida uudiseid ja värskendusi.",
     "PUBLIC_REPOS": "Avalikud räpositoriumid",
-    "MY_REPOSITORIES_ADD_YOURS": "Kui sul on hoidla, saad lasta oma kasutajatel selle lihtsal lisamiseks suunata neid {{brand}}-sse järgnevale aadressile: <b>{{href}}</b>"
+    "MY_REPOSITORIES_ADD_YOURS": "Kui sul on hoidla, saad lasta oma kasutajatel selle lihtsal lisamiseks suunata neid {{brand}}-sse järgnevale aadressile: <b>{{href}}</b>",
+    "PUBLIC": "\"Üldine\"",
+    "PRIVACY_POLICY": "Privaatsuspoliitika",
+    "TOS": "Teenuse Tingimused",
+    "SHARE": "Jaga",
+    "PRIVATE": "Eraldi",
+    "DOWNLOAD": "Allalaadimised"
 }

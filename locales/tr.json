@@ -689,5 +689,11 @@
     "MY_REPOSITORIES_HEADING": "\"Depolarım\"",
     "MY_REPOSITORIES_SIDEBAR": "{{brand}} üzerindeki koleksiyonunuza depolar ekleyebilir, ardından bu depolardan kolayca uygulama yükleyebilir, haberleri ve güncellemeleri kontrol edebilirsiniz.",
     "PUBLIC_REPOS": "Açık depolar",
-    "MY_REPOSITORIES_ADD_YOURS": "Eğer bir depoya sahipseniz, kullanıcılarınıza onu <b>{{href}}</b> adresine yönlendirerek {{brand}}'a kolaylıkla ekleyebilirsiniz."
+    "MY_REPOSITORIES_ADD_YOURS": "Eğer bir depoya sahipseniz, kullanıcılarınıza onu <b>{{href}}</b> adresine yönlendirerek {{brand}}'a kolaylıkla ekleyebilirsiniz.",
+    "TOS": "Hizmet Şartları",
+    "PUBLIC": "\"Halka açık\"",
+    "PRIVACY_POLICY": "\"Gizlilik Politikası\"",
+    "SHARE": "Paylaşıcı",
+    "PRIVATE": "Özel",
+    "DOWNLOAD": "İndirmeler"
 }

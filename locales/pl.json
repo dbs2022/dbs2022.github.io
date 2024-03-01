@@ -695,5 +695,11 @@
     "MY_REPOSITORIES_HEADING": "\"Moje repozytoria\"",
     "MY_REPOSITORIES_SIDEBAR": "Możesz dodać repozytoria do swojej kolekcji na {{brand}}, a następnie łatwo zainstalować aplikacje, sprawdzić nowości i aktualizacje w tych repozytoriach.",
     "PUBLIC_REPOS": "\"Publiczne repozytoria\"",
-    "MY_REPOSITORIES_ADD_YOURS": "Jeśli posiadasz repozytorium, możesz pozwolić swoim użytkownikom na łatwe dodanie go do {{brand}} przez przekierowanie ich na <b> {{href}} </b> ."
+    "MY_REPOSITORIES_ADD_YOURS": "Jeśli posiadasz repozytorium, możesz pozwolić swoim użytkownikom na łatwe dodanie go do {{brand}} przez przekierowanie ich na <b> {{href}} </b> .",
+    "PUBLIC": "Typ publiczny",
+    "PRIVACY_POLICY": "\"Polityka prywatności\"",
+    "TOS": "\"Warunki świadczenia usług\"",
+    "SHARE": "Udostępnij",
+    "PRIVATE": "Prywatny",
+    "DOWNLOAD": "\"Pobrania\""
 }

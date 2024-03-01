@@ -693,5 +693,11 @@
     "MY_REPOSITORIES_HEADING": "私のリポジトリ",
     "MY_REPOSITORIES_SIDEBAR": "あなたは{{brand}}でリポジトリをコレクションに追加することができ、その後、これらのリポジトリでアプリを簡単にインストールしたり、ニュースやアップデートを確認したりすることができます。",
     "PUBLIC_REPOS": "公開リポジトリ",
-    "MY_REPOSITORIES_ADD_YOURS": "リポジトリを所有している場合、ユーザーには <b>{{href}}</b> にリダイレクトすることで、簡単にそれを {{brand}} に追加できるようにすることができます。"
+    "MY_REPOSITORIES_ADD_YOURS": "リポジトリを所有している場合、ユーザーには <b>{{href}}</b> にリダイレクトすることで、簡単にそれを {{brand}} に追加できるようにすることができます。",
+    "PUBLIC": "公開",
+    "TOS": "利用規約",
+    "PRIVATE": "プライベート",
+    "PRIVACY_POLICY": "プライバシーポリシー",
+    "SHARE": "共有",
+    "DOWNLOAD": "ダウンロード"
 }
