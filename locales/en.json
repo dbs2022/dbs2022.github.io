@@ -736,5 +736,7 @@
   "COMPATIBILITY_UNKNOWN_1": "Compatibility unknown",
   "PRIVATE_APPS": "Private apps",
   "PUBLIC_APPS": "Public apps",
-  "VISIBILITY": "Visibility"
+  "VISIBILITY": "Visibility",
+  "SHARE_YOUR_SEARCH": "Share your search",
+  "VERSION_AND_COPYRIGHT_CLAIM": "Version {{version}}. Сopyright infringement? <a href=\"{{claimLink}}\" target=\"_blank\">Submit a claim</a>"
 }
