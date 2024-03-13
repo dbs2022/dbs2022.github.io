@@ -70,7 +70,7 @@
     "TOTAL": "total",
     "ERROR": "Error",
     "NEWS_HISTORY": "News History",
-    "AUTOMATIC_REQUESTS_TERMS": "Here can request apps to be found and uploaded to {{brand}} by the users. Before requesting, please <a href=\"{{href}}\">use search</a> to make sure that app does not exist on {{brand}}.",
+    "AUTOMATIC_REQUESTS_TERMS": "Here can request apps to be found and uploaded to {{brand}} by the users. Before requesting, please use search to make sure that app does not exist on {{brand}}.",
     "REQUEST_APP_TO_BE_UPLOADED": "Request an app",
     "COPY_PASTE_APPSTORE_URL": "Please copy&paste AppStore app URL (you can get it from share menu)",
     "SITE_TITLE": "Alternative app store for iOS with support of official sideloading. Publishing of apps without AppStore restrictions. Download iOS apps, sideload iOS apps without jailbreak and computer",
