@@ -749,5 +749,6 @@
     "MALWARE_DETECTED_NOTICE": "{{brand}} has detected possible malware inside this app. Install on your own risk:",
     "LEVEL": "Level",
     "DANGER": "Danger",
-    "REPO_APP_MALWARE_NOTICE": "This is an app from remote repository. It was not checked by {{brand}} against known malware functions."
+    "REPO_APP_MALWARE_NOTICE": "This is an app from remote repository. It was not checked by {{brand}} against known malware functions.",
+    "NOT_AFFILIATED_NOTICE": "Not affiliated with Apple Inc. iPhone, iPad, Mac, Apple and Apple logo are registered trademarks of Apple Inc."
 }
