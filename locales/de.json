@@ -467,7 +467,6 @@
     "PENDING_APPLE": "\"Beschränkt von Apple\"",
     "NO_DIRECT_PURCHASE_AVAILABLE": "\"Mit den Platzhaltern {{}} und HTML-Tags können Sie PRO nur von Wiederverkäufern kaufen.\"",
     "POWERED_BY_APPDB": "Angetrieben von appdb (Generiert von appdb)",
-    "VIEW_PLUS_STATUS": "\"Plussstatus anzeigen\"",
     "PRO_NOT_ACTIVATED": "PRO ist nicht aktiviert.",
     "PRO_EXPIRED_ON": "\"PRO für Ihr Gerät ist am {{date}} abgelaufen. <a href=\"{{buyLink}}\">Wie kann ich jetzt sideloaden?</a>\"",
     "PLUS_STATUS_FOR_DEVICE": "\"PLUS Aktivierungsstatus für das ausgewählte Gerät:\"",

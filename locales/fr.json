@@ -468,7 +468,6 @@
     "PENDING_APPLE": "\"Limité par Apple\"",
     "NO_DIRECT_PURCHASE_AVAILABLE": "\"Vous pouvez acheter PRO uniquement auprès des revendeurs.\"",
     "POWERED_BY_APPDB": "Alimenté par appdb",
-    "VIEW_PLUS_STATUS": "\"Afficher l'état PLUS\"",
     "PRO_NOT_ACTIVATED": "\"PRO n'est pas activé\"",
     "PRO_EXPIRED_ON": "PRO pour votre appareil a expiré le {{date}}. <a href=\"{{buyLink}}\">Comment effectuer un chargement latéral maintenant ?</a>",
     "PLUS_STATUS_FOR_DEVICE": "\"État d'activation PLUS pour l'appareil sélectionné :",

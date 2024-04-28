@@ -471,7 +471,6 @@
     "PENDING_APPLE": "محدودة بواسطة Apple",
     "NO_DIRECT_PURCHASE_AVAILABLE": "يمكنك شراء النسخة \"PRO\" فقط من البائعين المعتمدين.",
     "POWERED_BY_APPDB": "مشغل بواسطة appdb",
-    "VIEW_PLUS_STATUS": "عرض حالة {{PLUS}}",
     "PRO_NOT_ACTIVATED": "لا يتم تنشيط PRO",
     "PRO_EXPIRED_ON": "بطاقة المحترف المتاحة لجهازك قد انتهت في {{date}}. <a href=\"{{buyLink}}\">كيفية تثبيت الملف الجانبي الآن؟</a>",
     "PLUS_STATUS_FOR_DEVICE": "حالة تنشيط PLUS للجهاز المحدد:",

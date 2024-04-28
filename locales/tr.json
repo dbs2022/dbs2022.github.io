@@ -462,7 +462,6 @@
     "PENDING_APPLE": "Sınırlıdır {{Apple}}",
     "NO_DIRECT_PURCHASE_AVAILABLE": "PRO yalnızca bayilerden satın alabilirsiniz.",
     "POWERED_BY_APPDB": "\"appdb tarafından desteklenmektedir.\"",
-    "VIEW_PLUS_STATUS": "Görüntüle PLUS durumu",
     "PRO_NOT_ACTIVATED": "PRO etkinleştirilmemiştir.",
     "PRO_EXPIRED_ON": "Cihazınızdaki PRO süresi {{date}} tarihinde sona erdi. <a href=\"{{buyLink}}\">Şimdi nasıl yan yüklenir?</a>",
     "PLUS_STATUS_FOR_DEVICE": "Seçilen cihaz için PLUS etkinleştirme durumu:",

@@ -467,7 +467,6 @@
     "PENDING_APPLE": "Piiratud Apple poolt",
     "NO_DIRECT_PURCHASE_AVAILABLE": "Saate PRO-d osta ainult edasimüüjate kaudu.",
     "POWERED_BY_APPDB": "Jõustab {{appdb}}",
-    "VIEW_PLUS_STATUS": "Vaata {{PLUS}} olekut",
     "PRO_NOT_ACTIVATED": "PRO pole aktiveeritud",
     "PRO_EXPIRED_ON": "PRO teie seadmel on aegunud {{date}}. <a href=\"{{buyLink}}\">Kuidas allalaadimine toimub?</a>",
     "PLUS_STATUS_FOR_DEVICE": "PLUS aktiveerimise staatus valitud seadmele:",

@@ -467,7 +467,6 @@
     "PENDING_APPLE": "\"Beperkt door Apple\"",
     "NO_DIRECT_PURCHASE_AVAILABLE": "\"Je kunt PRO alleen kopen bij wederverkopers\"",
     "POWERED_BY_APPDB": "\"Aangedreven door appdb\"",
-    "VIEW_PLUS_STATUS": "\"Bekijk {{status}} status\"",
     "PRO_NOT_ACTIVATED": "\"PRO is niet geactiveerd\"",
     "PRO_EXPIRED_ON": "\"PRO voor uw apparaat is verlopen op {{datum}}. <a href=\"{{buyLink}}\">Hoe nu sideloaden?</a>\"",
     "PLUS_STATUS_FOR_DEVICE": "PLUS-activatiestatus voor het geselecteerde apparaat:",

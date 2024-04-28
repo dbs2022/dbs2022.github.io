@@ -468,7 +468,6 @@
     "PENDING_APPLE": "Ограничено Apple",
     "NO_DIRECT_PURCHASE_AVAILABLE": "Вы можете приобрести PRO только у перекупщиков",
     "POWERED_BY_APPDB": "Работает на appdb",
-    "VIEW_PLUS_STATUS": "Просмотреть статус PLUS",
     "PRO_NOT_ACTIVATED": "PRO не активирован.",
     "PRO_EXPIRED_ON": "PRO для вашего устройства истекает {{date}}. <a href=\"{{buyLink}}\">Как выполнить боковую загрузку сейчас?</a>",
     "PLUS_STATUS_FOR_DEVICE": "PLUS статус активации для выбранного устройства:",

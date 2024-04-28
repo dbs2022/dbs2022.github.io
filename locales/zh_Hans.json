@@ -461,7 +461,6 @@
     "PENDING_APPLE": "由Apple所限制",
     "NO_DIRECT_PURCHASE_AVAILABLE": "您只能从经销商处购买PRO",
     "POWERED_BY_APPDB": "由appdb提供",
-    "VIEW_PLUS_STATUS": "查看PLUS状态",
     "PRO_NOT_ACTIVATED": "\"PRO 未激活\"",
     "PRO_EXPIRED_ON": "“您设备上的PRO版本已于{{date}}到期。<a href=\\\"{{buyLink}}\\\">如何立即侧载？</a>”",
     "PLUS_STATUS_FOR_DEVICE": "所选设备的PLUS激活状态：",

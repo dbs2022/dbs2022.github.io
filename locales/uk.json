@@ -463,7 +463,6 @@
     "PENDING_APPLE": "Обмежений компанією Apple",
     "NO_DIRECT_PURCHASE_AVAILABLE": "Ви можете придбати PRO лише у дилерів",
     "POWERED_BY_APPDB": "Розроблено за допомогою appdb",
-    "VIEW_PLUS_STATUS": "Переглянути статус PLUS",
     "PRO_NOT_ACTIVATED": "ПРО-версія не активована",
     "PRO_EXPIRED_ON": "PRO для вашого пристрою закінчився {{date}}. <a href=\"{{buyLink}}\">Як зараз завантажувати програми?</a>",
     "PLUS_STATUS_FOR_DEVICE": "PLUS стан активації для вибраного пристрою:",

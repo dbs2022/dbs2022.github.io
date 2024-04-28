@@ -467,7 +467,6 @@
     "PENDING_APPLE": "محدود شده توسط Apple",
     "NO_DIRECT_PURCHASE_AVAILABLE": "شما تنها می‌توانید PRO را از نمایندگان بخرید.",
     "POWERED_BY_APPDB": "توسط appdb تامین شده است",
-    "VIEW_PLUS_STATUS": "نمایش وضعیت {{PLUS}}",
     "PRO_NOT_ACTIVATED": "\"PRO فعال نشده است\"",
     "PRO_EXPIRED_ON": "PRO برای دستگاه شما در تاریخ {{date}} منقضی شده است. <a href=\"{{buyLink}}\">هم اکنون چگونه بارگذاری دستی را انجام دهید؟</a>",
     "PLUS_STATUS_FOR_DEVICE": "وضعیت فعالسازی PLUS برای دستگاه انتخاب شده:",

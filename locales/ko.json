@@ -466,7 +466,6 @@
     "PENDING_APPLE": "\"애플에 의해 제한됨\"",
     "NO_DIRECT_PURCHASE_AVAILABLE": "\"리셀러에서만 PRO를 구매할 수 있습니다.\"",
     "POWERED_BY_APPDB": "\"Powered by appdb\" translation:\n\n앱디비에 의해 제공됨",
-    "VIEW_PLUS_STATUS": "보기 + 상태",
     "PRO_NOT_ACTIVATED": "\"PRO는 활성화되지 않았습니다\"",
     "PRO_EXPIRED_ON": "장치에 대한 PRO가 {{date}}에 만료되었습니다. <a href=\"{{buyLink}}\">지금 사이드로드하는 방법은?</a>",
     "PLUS_STATUS_FOR_DEVICE": "선택한 장치에 대한 PLUS 활성화 상태:",

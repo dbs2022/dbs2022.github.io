@@ -468,7 +468,6 @@
     "PENDING_APPLE": "\"Ograniczone przez Apple\"",
     "NO_DIRECT_PURCHASE_AVAILABLE": "\"Możesz kupić PRO tylko od sprzedawców\"",
     "POWERED_BY_APPDB": "\"Zasilane przez appdb\"",
-    "VIEW_PLUS_STATUS": "Wyświetl status PLUS",
     "PRO_NOT_ACTIVATED": "\"PRO nie jest aktywowane\"",
     "PRO_EXPIRED_ON": "PRO dla Twojego urządzenia wygasł dnia {{date}}. <a href=\"{{buyLink}}\">Jak teraz zainstalować ręcznie?</a>",
     "PLUS_STATUS_FOR_DEVICE": "PLUS status aktywacji dla wybranego urządzenia:",

@@ -461,7 +461,6 @@
     "PENDING_APPLE": "Có giới hạn bởi Apple",
     "NO_DIRECT_PURCHASE_AVAILABLE": "Bạn chỉ có thể mua PRO từ các nhà phân phối",
     "POWERED_BY_APPDB": "Được hỗ trợ bởi appdb",
-    "VIEW_PLUS_STATUS": "Xem trạng thái PLUS",
     "PRO_NOT_ACTIVATED": "PRO chưa được kích hoạt",
     "PRO_EXPIRED_ON": "PRO cho thiết bị của bạn đã hết hạn vào ngày {{date}}. <a href=\"{{buyLink}}\">Cách cài ứng dụng bây giờ?</a>",
     "PLUS_STATUS_FOR_DEVICE": "Trạng thái kích hoạt PLUS cho thiết bị đã chọn:",

@@ -466,7 +466,6 @@
     "PENDING_APPLE": "「Appleによって制限されています」",
     "NO_DIRECT_PURCHASE_AVAILABLE": "PROを購入するには、販売代理店からのみ購入することができます。",
     "POWERED_BY_APPDB": "「appdb」によって提供されます。",
-    "VIEW_PLUS_STATUS": "表示 PLUS のステータス",
     "PRO_NOT_ACTIVATED": "PROはアクティブ化されていません。",
     "PRO_EXPIRED_ON": "デバイス用のPROの有効期限が{{date}}に切れました。{{buyLink}}\">今すぐサイドロードする方法は？</a>",
     "PLUS_STATUS_FOR_DEVICE": "選択されたデバイスのPLUSアクティベーションステータス：",

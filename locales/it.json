@@ -468,7 +468,6 @@
     "PENDING_APPLE": "Limitato da Apple",
     "NO_DIRECT_PURCHASE_AVAILABLE": "Puoi acquistare PRO solo dai rivenditori.",
     "POWERED_BY_APPDB": "Alimentato da appdb.",
-    "VIEW_PLUS_STATUS": "Visualizza stato PLUS",
     "PRO_NOT_ACTIVATED": "PRO non è attivato",
     "PRO_EXPIRED_ON": "PRO per il tuo dispositivo è scaduto il {{date}}. <a href=\"{{buyLink}}\">Come fare il sideload ora?</a>",
     "PLUS_STATUS_FOR_DEVICE": "Stato di attivazione PLUS per il dispositivo selezionato:",

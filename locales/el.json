@@ -467,7 +467,6 @@
     "PENDING_APPLE": "Περιορισμένο από την Apple",
     "NO_DIRECT_PURCHASE_AVAILABLE": "Μπορείτε να αγοράσετε PRO μόνο από αντιπροσώπους.",
     "POWERED_BY_APPDB": "Παρέχεται από το appdb.",
-    "VIEW_PLUS_STATUS": "Προβολή ΚΑΤΑΣΤΑΣΗΣ PLUS",
     "PRO_NOT_ACTIVATED": "PRO δεν έχει ενεργοποιηθεί.",
     "PRO_EXPIRED_ON": "\"Ο ΠΡΟ για τη συσκευή σας έχει λήξει στις {{date}}. <a href=\"{{buyLink}}\">Πώς να εγκαταστήσετε χειροκίνητα τώρα;</a>\"",
     "PLUS_STATUS_FOR_DEVICE": "Κατάσταση ενεργοποίησης PLUS για την επιλεγμένη συσκευή:",
