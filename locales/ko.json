@@ -591,7 +591,6 @@
     "THIS_FEATURE_IS_PART_OF_PLUS": "이 기능은 {{brand}} <span class=\"g-pro\">PLUS</span>의 일부입니다.",
     "SIDELOADING_OPTIONS_DESCRIPTION": "다양한 방법으로 사이드로딩을 할 수 있습니다. 각 방법은 다양한 장점과 한계가 다른 가격으로 제공됩니다. <b>개발자 계정을 사용한 공식 사이드로딩 외에는 모두 Apple이 서비스 약관 위반으로 간주하며, 이로 인해 사이드로딩 인증서가 취소되거나 기기에서 앱이 차단될 수 있습니다. 이는 앱을 사용할 수 없게 되며, 수동으로 삭제하고 다시 설치해야합니다.<br/><br/>\n선택한 사이드로딩 방법으로 전환하려면 필요한 단계를 완료한 다음 앱을 삭제하고 설치해야합니다(기존 앱을 재설치하지 않고). 그래야 새로운 사이드로딩 방법으로 앱이 설치됩니다.\"",
     "3RD_PARTY_SIDELOADING_PROGRAM": "\"인증서를 판매하고 웹사이트를 여기에 등록하려면, 저희 {{brand}} + 인증서 프로그램에 가입하시기 바랍니다. <a href=\"https://a.appdb.to/acp.php?action=pluscerts\">{{brand}} + 인증서</a>\"",
-    "TOS_API": "\"{{brand}} API는 언제나 무료로 사용할 수 있으며 어떠한 제한도 없습니다. 별다른 조건 없이 이용하실 수 있습니다. 우리는 커뮤니티를 지원합니다!\"",
     "BUY_PLUS": "\"{{브랜드}} PLUS 구매하기\"",
     "PLEASE_WAIT_N_SECONDS_TILL_LINK": "링크가 나타날 때까지 <strong>{{seconds}}</strong>초 기다려주세요.",
     "LINK_IS_READY_CONTINUE": "\"링크가 준비되었습니다! 계속하려면 여기를 클릭하거나 탭하세요.\"",

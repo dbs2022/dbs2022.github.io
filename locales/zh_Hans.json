@@ -586,7 +586,6 @@
     "THIS_FEATURE_IS_PART_OF_PLUS": "这个功能是{{brand}}的一部分。<span class=\"g-pro\">PLUS</span>",
     "SIDELOADING_OPTIONS_DESCRIPTION": "您可以承担各种不同的侧加载方法。每种方法都具有各种优点和限制，并具有不同的价格。<b>除了使用开发者帐户的官方侧加载之外</b>，苹果将视为服务条款违规行为，可能会撤销您的侧加载证书或阻止设备上的应用程序，这将导致无法使用应用程序，您需要手动删除并重新安装它们。<br/><br/>若要切换到选择的侧加载方法，请完成必要的步骤，然后删除并安装您的应用程序（而不仅仅是重新安装），以便使用新的侧加载方法进行安装。",
     "3RD_PARTY_SIDELOADING_PROGRAM": "如果您正在出售证书，并希望在此处列出您的网站，请加入我们的<a href=\"https://a.appdb.to/acp.php?action=pluscerts\">{{brand}} + 证书</a>计划。",
-    "TOS_API": "\"{{brand}} API将永远对所有人免费使用，没有任何限制。没有任何条件。我们支持社区！\"",
     "BUY_PLUS": "购买{{brand}}PLUS",
     "PLEASE_WAIT_N_SECONDS_TILL_LINK": "请等待<strong>{{seconds}}</strong>秒，链接将会出现",
     "LINK_IS_READY_CONTINUE": "您的链接已准备就绪！请点击或轻触此处继续。",

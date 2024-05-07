@@ -593,7 +593,6 @@
     "THIS_FEATURE_IS_PART_OF_PLUS": "Esta funcionalidade faz parte do {{brand}} <span class=\"g-pro\">PLUS</span>",
     "SIDELOADING_OPTIONS_DESCRIPTION": "Existem vários métodos de sideload que você pode usar. Cada método possui várias vantagens e limitações com preços diferentes. <b>Tudo, exceto o sideload oficial com uma conta de desenvolvedor</b>, é considerado pela Apple uma violação dos Termos de Serviço, o que pode revogar seu certificado de sideload ou bloquear aplicativos em seu dispositivo, resultando na incapacidade de usá-los. Nesse caso, será necessário removê-los e instalá-los manualmente.<br/><br/>\nPara mudar para o método de sideload escolhido, por favor, complete as etapas necessárias e em seguida remova e instale (não apenas reinstale) seus aplicativos, desta forma eles serão instalados com o novo método de sideload.",
     "3RD_PARTY_SIDELOADING_PROGRAM": "Se você vende certificados e deseja que seu site seja listado aqui, junte-se ao nosso programa de <a href=\"https://a.appdb.to/acp.php?action=pluscerts\">{{brand}} + certificados</a>",
-    "TOS_API": "\"As APIs da {{brand}} serão sempre gratuitas para uso de todos, sem limitações. Sem custos ocultos. Nós apoiamos a comunidade!\"",
     "BUY_PLUS": "Comprar {{brand}} PLUS.",
     "PLEASE_WAIT_N_SECONDS_TILL_LINK": "Por favor, aguarde <strong>{{seconds}}</strong> segundos para que o link apareça.",
     "LINK_IS_READY_CONTINUE": "\"Seu link está pronto! Clique ou toque aqui para continuar.\"",

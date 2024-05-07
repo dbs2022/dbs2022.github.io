@@ -586,7 +586,6 @@
     "THIS_FEATURE_IS_PART_OF_PLUS": "Tính năng này là một phần của {{brand}} <span class=\"g-pro\">PLUS</span>",
     "SIDELOADING_OPTIONS_DESCRIPTION": "Có nhiều phương pháp cài ứng dụng khác nhau mà bạn có thể sử dụng. Mỗi phương pháp đều có những ưu điểm và hạn chế khác nhau với mức giá khác nhau. <b>Mọi thứ ngoại trừ việc cài ứng dụng chính thức bằng Tài khoản nhà phát triển</b> đều bị Apple coi là vi phạm Điều khoản dịch vụ. Họ có thể thu hồi chứng chỉ cài ứng dụng của bạn hoặc chặn các ứng dụng trên thiết bị của bạn bất kỳ lúc nào, điều này sẽ dẫn đến việc không thể sử dụng ứng dụng, bạn sẽ cần gỡ bỏ và cài đặt lại theo cách thủ công.<br/><br/>\nĐể chuyển sang phương pháp cài ứng dụng đã chọn, vui lòng hoàn tất các bước cần thiết, sau đó xóa và cài đặt (không chỉ cài đặt lại) ứng dụng của bạn để chúng sẽ được cài đặt bằng phương pháp mới.",
     "3RD_PARTY_SIDELOADING_PROGRAM": "Nếu bạn đang bán chứng chỉ và muốn website của bạn được liệt kê ở đây, hãy tham gia chương trình <a href=\"https://a.appdb.to/acp.php?action=pluscerts\">{{brand}} + chứng chỉ</a> của chúng tôi",
-    "TOS_API": "API của {{brand}} sẽ luôn miễn phí sử dụng cho tất cả mọi người mà không có bất kỳ hạn chế nào. Không ràng buộc gì. Chúng tôi hỗ trợ cộng đồng!",
     "BUY_PLUS": "Mua {{brand}} PLUS",
     "PLEASE_WAIT_N_SECONDS_TILL_LINK": "Liên kết tải xuống sẽ xuất hiện sau <strong>{{seconds}}</strong> giây",
     "LINK_IS_READY_CONTINUE": "Liên kết của bạn đã sẵn sàng! Nhấp vào đây để tiếp tục.",

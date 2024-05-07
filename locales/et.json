@@ -592,7 +592,6 @@
     "THIS_FEATURE_IS_PART_OF_PLUS": "See järgneva koodiga \"et\" tõlkes ja arvesta kohati {{}} ja HTML-sildid. Kirjuta ainult tõlgitud string: \"See funktsionaalsus on osa {{brand}} <span class=\"g-pro\">PLUSS</span>\"",
     "SIDELOADING_OPTIONS_DESCRIPTION": "On mitmeid sideloading meetodeid, mida saate endale lubada. Igal meetodil on erinevad eelised ja piirangud erineva hinnaga. <b>Kõik, välja arvatud ametlik sideloading arendajakonto kasutades</b>, loetakse Apple poolt Teenuste kasutamise tingimuste rikkumiseks, mis võib tühistada teie sideloading sertifikaadi või blokeerida rakendused teie seadmel, see takistab rakenduste kasutamise ja peate need käsitsi eemaldama ning paigaldama uuesti.<br/><br/>\nValitud sideloading meetodi valimiseks täitke vajalikud sammud ja seejärel eemaldage ja paigaldage (mitte lihtsalt uuesti installida) rakendused, nii et need paigalduvad uue sideloading meetodiga.",
     "3RD_PARTY_SIDELOADING_PROGRAM": "Kui soovite oma veebisaidi siia loetletud sertifikaate müüa ning liituda meie <a href=\"https://a.appdb.to/acp.php?action=pluscerts\">{{brand}} + sertifikaadi</a> programmiga, siis palun tehke seda",
-    "TOS_API": "\"{{brand}} API-d oleks alati kõigile tasuta kasutamiseks ilma piiranguteta. Pole mingeid varjatud kohustusi. Me toetame kogukonda!\"",
     "BUY_PLUS": "Osta {{brand}} PLUS",
     "PLEASE_WAIT_N_SECONDS_TILL_LINK": "Palun oodake linki ilmumiseks <strong>{{seconds}}</strong> sekundit.",
     "LINK_IS_READY_CONTINUE": "Teie link on valmis! Klõpsake või puudutage siia, et jätkata.",

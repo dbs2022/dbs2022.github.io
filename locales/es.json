@@ -593,7 +593,6 @@
     "THIS_FEATURE_IS_PART_OF_PLUS": "Esta función es parte de {{brand}} <span class=\"g-pro\">PLUS</span>",
     "SIDELOADING_OPTIONS_DESCRIPTION": "Hay diversos métodos de carga lateral que puedes permitirte. Cada método viene con varias ventajas y limitaciones a diferentes precios. <b>Todo excepto la carga lateral oficial con una cuenta de desarrollador</b> es considerado por Apple como una violación de los Términos de Servicio, lo cual puede revocar tu certificado de carga lateral o bloquear aplicaciones en tu dispositivo, lo que resultará en la incapacidad de usar aplicaciones. Necesitarás eliminarlas e instalarlas manualmente.<br/><br/>\nPara cambiar al método de carga lateral elegido, por favor completa los pasos necesarios y luego elimina e instala (no solo reinstala) tus aplicaciones, así serán instaladas con el nuevo método de carga lateral.",
     "3RD_PARTY_SIDELOADING_PROGRAM": "Si vendes certificados y quieres que tu sitio web aparezca aquí, únete a nuestro programa de {{brand}} + certificado a través de <a href=\"https://a.appdb.to/acp.php?action=pluscerts\">este enlace</a>.",
-    "TOS_API": "\"Las APIs de {{brand}} siempre serán gratuitas para todos sin ninguna limitación. Sin condiciones. ¡Apoyamos a la comunidad!\"",
     "BUY_PLUS": "Comprar {{brand}} PLUS",
     "PLEASE_WAIT_N_SECONDS_TILL_LINK": "Por favor, espera <strong>{{seconds}}</strong> segundos para que aparezca el enlace.",
     "LINK_IS_READY_CONTINUE": "\"¡Tu enlace está listo! Haz clic o toca aquí para continuar.\"",

@@ -587,7 +587,6 @@
     "THIS_FEATURE_IS_PART_OF_PLUS": "Bu özellik, {{brand}} <span class=\"g-pro\">PLUS</span> 'nın bir parçasıdır.",
     "SIDELOADING_OPTIONS_DESCRIPTION": "Farklı yan yükleme yöntemleri bulunmaktadır. Her yöntem farklı avantajlar ve sınırlamalar sunar ve farklı fiyatlarda bulunur. <b>Geliştirici Hesabı dışında her şey Apple tarafından Hizmet Şartları ihlali olarak kabul edilir, bu da yan yükleme sertifikasının iptal edilmesine veya cihazınızdaki uygulamaların engellenmesine neden olabilir, bu da uygulamaları kullanamamanıza yol açar, bunları kaldırmanız ve el ile yeniden yüklemeniz gerekecektir. <br/><br/>\nSeçtiğiniz yan yükleme yöntemine geçmek için gerekli adımları tamamlayın ve ardından uygulamalarınızı kaldırın ve yeniden yükleyin (sadece yeniden yüklemek değil), böylece yeni yan yükleme yöntemiyle yüklenirler.\"",
     "3RD_PARTY_SIDELOADING_PROGRAM": "Sertifikalar satıyorsanız ve web sitenizin burada listelenmesini istiyorsanız, lütfen <a href=\"https://a.appdb.to/acp.php?action=pluscerts\">{{brand}} + sertifika</a> programımıza katılın.",
-    "TOS_API": "\"{{brand}} API'ları, herhangi bir kısıtlama olmaksızın herkes tarafından daima ücretsiz olarak kullanıma sunulacaktır. Bağlayıcı hiçbir şartımız yoktur. Toplumu destekliyoruz!\"",
     "BUY_PLUS": "{{brand}}'İ SATIN ALIN",
     "PLEASE_WAIT_N_SECONDS_TILL_LINK": "Lütfen bağlantının görünmesi için <strong>{{seconds}}</strong> saniye bekleyin.",
     "LINK_IS_READY_CONTINUE": "Bağlantınız hazır! Devam etmek için buraya tıklayın ya da dokunun.",
